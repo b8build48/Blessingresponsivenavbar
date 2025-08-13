@@ -4,7 +4,6 @@
 }
 body{
     min-height: 100vh;
-    background-color: lightblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 nav{
@@ -67,6 +66,7 @@ width: 100%;
     display: block;
 }
 }
+
 @media (max-width: 400px){
     .sidebar{
         width: 100%;
